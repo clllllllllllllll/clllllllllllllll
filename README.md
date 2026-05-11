@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working as a Software Engineer Intern @ NHG working on full-stack, ai-enabled applications!
+# About Me:
+🔭 I’m currently working as a Software Engineer Intern @ NHG working on full-stack applications!
 
 
 ## 🌐 Socials:
